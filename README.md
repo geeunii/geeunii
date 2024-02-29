@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/java)
+[Static Badge](https://img.shields.io/badge/java)
