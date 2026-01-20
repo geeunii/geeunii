@@ -55,7 +55,7 @@
 - **Tech:** Spring Boot 3.x, Vue.js, Gemini API, Docker, Nginx
 - **Key Actions:**
     - AI 응답의 불규칙한 포맷을 방어하는 `parseSafe` 로직 구현 (파싱 에러율 0%)
-    - 보안 강화를 위한 **User/Admin 서버 물리적 분리** 및 **Private Subnet(폐쇄망) 배포 파이프라인** 구축
+    - 보안 강화를 위한 **User/Admin 서버 물리적 분리** 및 **Private Subnet(폐쇄망)** 구축
 
 ### 📦 **[의류 창고 관리 시스템 (WMS)](https://github.com/geeunii/WMS-Finance-Dashboard)**
 > **실시간 재고 관리 및 재무 대시보드를 제공하는 물류 관리 시스템**
