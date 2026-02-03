@@ -76,9 +76,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geeunii&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&count_private=true" alt="Geuni's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geeunii&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&count_private=true&t=20260203" alt="Geuni's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeunii&layout=compact&theme=dark&bg_color=00000000&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeunii&layout=compact&theme=dark&bg_color=00000000&hide_border=true&t=20260203" alt="Top Langs" />
 </div>
 
 <br/>
